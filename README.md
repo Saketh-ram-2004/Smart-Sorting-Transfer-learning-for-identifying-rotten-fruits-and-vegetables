@@ -9,9 +9,13 @@ Objective
 
 To automate the classification of fruits and vegetables based on freshness using a trained deep learning model integrated into a user-friendly web application.
 
-Team ID: LTVIP2025TMID41277
+Team ID: LTVIP2026TMIDS64924
 
-Team Lead: M. Sai Gowtham Reddy Team Members: M. Jhansi P. Rohit Kumar Reddy M. Shobha Rani M. Reddy Kiran
+Team Lead: Kristipati Saketh Ram 
+Team Members: 
+Vadlani Yashaswini
+Madduru Shobha Rani 
+Konduru Ankitha
 
 Key Features
 
